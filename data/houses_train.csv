@@ -1,4 +1,4 @@
-,date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,sqft_above,sqft_basement,yr_built,yr_renovated,street,city,statezip,country
+id,date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,sqft_above,sqft_basement,yr_built,yr_renovated,street,city,statezip,country
 2315,2014-06-11 00:00:00,700000.0,3.0,2.75,2500,7378,1.0,0,0,5,1390,1110,1948,1985,10050 11th Ave NW,Seattle,WA 98177,USA
 1434,2014-05-28 00:00:00,225000.0,3.0,2.0,2030,24829,1.0,0,0,4,1220,810,1979,0,36721 34th Ave S,Auburn,WA 98001,USA
 1412,2014-05-27 00:00:00,754950.0,3.0,2.5,2610,7256,2.0,0,0,3,2610,0,2014,0,12108 NE 106th Pl,Kirkland,WA 98033,USA

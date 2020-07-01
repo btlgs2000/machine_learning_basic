@@ -1,4 +1,4 @@
-,date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,sqft_above,sqft_basement,yr_built,yr_renovated,street,city,statezip,country
+id,date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,sqft_above,sqft_basement,yr_built,yr_renovated,street,city,statezip,country
 858,2014-05-19 00:00:00,592500.0,2.0,2.0,1420,9191,1.5,0,2,5,1420,0,1928,1970,800 NE 95th St,Seattle,WA 98115,USA
 1874,2014-06-04 00:00:00,603500.0,4.0,2.5,4060,9734,1.0,0,4,3,2150,1910,1977,2004,19304 65th Ave NE,Kenmore,WA 98028,USA
 918,2014-05-19 00:00:00,442500.0,3.0,1.75,1800,10200,1.0,0,0,3,1800,0,1967,2011,17110-17116 146th Ave SE,Renton,WA 98058,USA
